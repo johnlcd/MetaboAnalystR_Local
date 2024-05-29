@@ -1,2 +1,2 @@
-# MetaboAnanlystR_Pro
+# MetaboAnanlystR_Local
 Tools for metabolomic analysis
